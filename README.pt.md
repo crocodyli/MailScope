@@ -254,5 +254,4 @@ Ao terminar, o script exibe um painel consolidado com notas **0–10** e um **SC
 | Arquivo | Descrição |
 |---------|-----------|
 | [docs/GITHUB.md](docs/GITHUB.md) | Guia para criar e publicar o repositório no GitHub |
-| [docs/guia-medium-pt.docx](docs/guia-medium-pt.docx) | Artigo/guia em português (Medium) |
-| [docs/guide-medium-en.docx](docs/guide-medium-en.docx) | Article/guide in English (Medium) |
+| [docs/REPOSITORY.md](docs/REPOSITORY.md) | Descrição do repositório no GitHub (inglês) e topics |
