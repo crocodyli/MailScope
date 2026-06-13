@@ -274,12 +274,3 @@ When finished, the script displays a consolidated panel with **0–10 scores** a
 | [README.pt.md](README.pt.md) | Portuguese documentation (complementary) |
 | [docs/GITHUB.md](docs/GITHUB.md) | Guide to create and publish the repository on GitHub |
 | [docs/REPOSITORY.md](docs/REPOSITORY.md) | GitHub repository description (English) and topics |
-| [docs/guia-medium-pt.docx](docs/guia-medium-pt.docx) | Portuguese article/guide (Medium) |
-| [docs/guide-medium-en.docx](docs/guide-medium-en.docx) | English article/guide (Medium) |
-
-To regenerate the `.docx` files after editing content:
-
-```bash
-pip install python-docx
-python scripts/generate_docs.py
-```
